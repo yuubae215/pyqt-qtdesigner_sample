@@ -1,0 +1,1 @@
+# pyqt-qtdesigner_sample
